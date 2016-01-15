@@ -33,39 +33,39 @@ I want to use this template to create an image filter that will wesandersonify a
 
 ## Dataset
 The datasets I will use are available online, and are free to download.
-* Film stills (raw images)
-  * http://film-grab.com/category/wes-anderson/
-* Kuler/Colourlovers palette dataset (matlab data files)
-  * http://www.dgp.toronto.edu/~donovan/color/
+* Film stills (raw images)  
+http://film-grab.com/category/wes-anderson/
+* Kuler/Colourlovers palette dataset (matlab data files)  
+http://www.dgp.toronto.edu/~donovan/color/
 
 ## Tools
 I will leverage the open sources Python modules OpenCV-Python and Scikit-Image to analyze the histograms of the stills.
-* Open-CV-Python
+* Open-CV-Python  
 https://opencv-python-tutroals.readthedocs.org/en/latest/
-* Scikit-Image
+* Scikit-Image  
 http://scikit-image.org/docs/stable/api/api.html
-* colorsys
+* colorsys  
 https://docs.python.org/2/library/colorsys.html
 
 ## Resources
 #### Journal Articles
-* Peter O'Donovan, Aseem Agarwala, Aaron Hertzmann. Color Compatibility From Large Datasets. ACM Transactions on Graphics, 2011, 30, 43, (Proc. SIGGRAPH).
+* Peter O'Donovan, Aseem Agarwala, Aaron Hertzmann. Color Compatibility From Large Datasets. ACM Transactions on Graphics, 2011, 30, 43, (Proc. SIGGRAPH).  
 http://www.dgp.toronto.edu/~donovan/color/colorcomp.pdf
-* S. Xue, A. Agarwala, J. Dorsey, H. Rushmeier / Learning and Applying Color Styles From Feature Films
+* S. Xue, A. Agarwala, J. Dorsey, H. Rushmeier / Learning and Applying Color Styles From Feature Films  
 http://graphics.cs.yale.edu/su/pub/PG13/FilmStyle_1_Submit.pdf
-* ImageNet Classification with Deep Convolutional Neural Networks
+* ImageNet Classification with Deep Convolutional Neural Networks  
 http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf
 
 #### Tutorials
-* Python for Image Manipulation
+* Python for Image Manipulation  
 http://www.cs.uregina.ca/Links/class-info/325/PythonPictures/
-* Uploading files with Selenium
+* Uploading files with Selenium  
 https://muthutechno.wordpress.com/2014/07/09/uploading-files-in-selenium-webdriver/
-* Deep Learning
+* Deep Learning  
 http://www.deeplearning.net/tutorial/lenet.html#lenet
 
 #### Blogs
-* Wes Anderson color palettes
+* Wes Anderson color palettes  
 http://wesandersonpalettes.tumblr.com/
 
 ## To Do
